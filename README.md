@@ -39,7 +39,7 @@ It demonstrates **modern Android development practices** including Compose UI, s
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/MealRater.git
+git clone https://github.com/yourusername/ContractorCalculator.git
 ```
 2. Open the project in **Android Studio**.  
 3. Make sure your Android SDK is set to **API 34** or higher.  
